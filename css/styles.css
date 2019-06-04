@@ -1,0 +1,38 @@
+#rainbow {
+  display: none;
+}
+
+#monkey {
+  display: none;
+}
+
+#lollipop {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.clickable-rainbow span {
+  background-color: yellow;
+}
+
+.blue-background {
+  background-color: blue;
+  color: white;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+  color: white;
+}
